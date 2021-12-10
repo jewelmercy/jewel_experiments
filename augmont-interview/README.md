@@ -20,6 +20,8 @@ Design and Developing includes following steps:
 10. UI is seperated from the logics and behavior.
 11. Email Id is validated for any typo errors.
 12. Sign Out and automatic log in on closing and resuming application.
+13. Application is build on real time Android smart phone: Redmi Note 7 pro with Android version 10
+
 
 
 
