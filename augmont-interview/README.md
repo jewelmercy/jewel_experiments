@@ -17,10 +17,11 @@ Design and Developing includes following steps:
 7. A error box is shows on any accurence of errors such as No user found, Wrong password etc.
 8. Registered user list can be seen on Firebase console.
 9. Code is refactored by making reusable components.
-10. UI is seperated from the logics and behavior.
-11. Email Id is validated for any typo errors.
-12. Sign Out and automatic log in on closing and resuming application.
-13. Application is build on real time Android smart phone: Redmi Note 7 pro with Android version 10
+10. Pages are made responsive layout according to the size of display used.
+11. UI is seperated from the logics and behavior.
+12. Email Id is validated for any typo errors.
+13. Sign Out and automatic log in on closing and resuming application.
+14. Application is build on real time Android smart phone: Redmi Note 7 pro with Android version 10
 
 
 
